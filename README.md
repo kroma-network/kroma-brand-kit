@@ -12,11 +12,13 @@ Only use the logo files provided. Do not re-create.
 
 ## Signature
 
-| png                      | svg                      |
-|--------------------------|--------------------------|
-| ![kroma-signature-png]   | ![kroma-signature-svg]   |
-| ![kroma-signature-w-png] | ![kroma-signature-w-svg] |
-| ![kroma-signature-b-png] | ![kroma-signature-b-svg] |
+| png                        | svg                      |
+|----------------------------|--------------------------|
+| ![kroma-signature-png]     | ![kroma-signature-svg]   |
+| ![kroma-signature-w-png]   | ![kroma-signature-w-svg] |
+| ![kroma-signature-b-png]   | ![kroma-signature-b-svg] |
+| ![tachyon-signature-png]   |                          |
+| ![tachyon-signature-w-png] |                          |
 
 [Kroma-signature-png]: assets/images/signature/Kroma-signature.png
 [Kroma-signature-svg]: assets/images/signature/Kroma-signature.svg
@@ -24,16 +26,19 @@ Only use the logo files provided. Do not re-create.
 [Kroma-signature-w-svg]: assets/images/signature/Kroma-signature-w.svg
 [Kroma-signature-b-png]: assets/images/signature/Kroma-signature-b.png
 [Kroma-signature-b-svg]: assets/images/signature/Kroma-signature-b.svg
-
+[Tachyon-signature-png]: assets/images/signature/Tachyon-signature.png
+[Tachyon-signature-w-png]: assets/images/signature/Tachyon-signature-w.png
 <br/>
 
 ## Symbol
 
-| PNG                   | SVG                   |
-|-----------------------|-----------------------|
-| ![Kroma-symbol-png]   | ![Kroma-symbol-svg]   |
-| ![Kroma-symbol-w-png] | ![Kroma-symbol-w-svg] |
-| ![Kroma-symbol-b-png] | ![Kroma-symbol-b-svg] |
+| PNG                     | SVG                   |
+|-------------------------|-----------------------|
+| ![Kroma-symbol-png]     | ![Kroma-symbol-svg]   |
+| ![Kroma-symbol-w-png]   | ![Kroma-symbol-w-svg] |
+| ![Kroma-symbol-b-png]   | ![Kroma-symbol-b-svg] |
+| <img src="assets/images/symbol/Tachyon-symbol.png" alt="Tachyon-symbol-png" width="200">          | |
+| <img src="assets/images/symbol/Tachyon-symbol-b.png" alt="Tachyon-symbol-b-png" width="200">          | |
 
 [Kroma-symbol-png]: assets/images/symbol/Kroma-symbol.png
 [Kroma-symbol-svg]: assets/images/symbol/Kroma-symbol.svg
