@@ -12,51 +12,28 @@ Only use the logo files provided. Do not re-create.
 
 ## Signature
 
-| png                        | svg                      |
-|----------------------------|--------------------------|
-| ![kroma-signature-png]     | ![kroma-signature-svg]   |
-| ![kroma-signature-w-png]   | ![kroma-signature-w-svg] |
-| ![kroma-signature-b-png]   | ![kroma-signature-b-svg] |
-| ![tachyon-signature-png]   |                          |
-| ![tachyon-signature-w-png] |                          |
+| png                           | svg                           |
+| ----------------------------- | ----------------------------- |
+| ![kroma-signature-png]        | ![kroma-signature-svg]        |
+| ![kroma-signature-w-neon-png] | ![kroma-signature-w-neon-svg] |
+| ![tachyon-signature-png]      |                               |
+| ![tachyon-signature-w-png]    |                               |
 
 [Kroma-signature-png]: assets/images/signature/Kroma-signature.png
 [Kroma-signature-svg]: assets/images/signature/Kroma-signature.svg
-[Kroma-signature-w-png]: assets/images/signature/Kroma-signature-w.png
-[Kroma-signature-w-svg]: assets/images/signature/Kroma-signature-w.svg
-[Kroma-signature-b-png]: assets/images/signature/Kroma-signature-b.png
-[Kroma-signature-b-svg]: assets/images/signature/Kroma-signature-b.svg
+[Kroma-signature-w-neon-png]: assets/images/signature/Kroma-signature-w(neon).png
+[Kroma-signature-w-neon-svg]: assets/images/signature/Kroma-signature-w(neon).svg
 [Tachyon-signature-png]: assets/images/signature/Tachyon-signature.png
 [Tachyon-signature-w-png]: assets/images/signature/Tachyon-signature-w.png
+
 <br/>
 
 ## Symbol
 
-| PNG                     | SVG                   |
-|-------------------------|-----------------------|
-| ![Kroma-symbol-png]     | ![Kroma-symbol-svg]   |
-| ![Kroma-symbol-w-png]   | ![Kroma-symbol-w-svg] |
-| ![Kroma-symbol-b-png]   | ![Kroma-symbol-b-svg] |
-| <img src="assets/images/symbol/Tachyon-symbol.png" alt="Tachyon-symbol-png" width="200">          | |
-| <img src="assets/images/symbol/Tachyon-symbol-b.png" alt="Tachyon-symbol-b-png" width="200">          | |
+| PNG                                                                                      | SVG                 |
+| ---------------------------------------------------------------------------------------- | ------------------- |
+| ![Kroma-symbol-png]                                                                      | ![Kroma-symbol-svg] |
+| <img src="assets/images/symbol/Tachyon-symbol.png" alt="Tachyon-symbol-png" width="200"> |                     |
 
 [Kroma-symbol-png]: assets/images/symbol/Kroma-symbol.png
 [Kroma-symbol-svg]: assets/images/symbol/Kroma-symbol.svg
-[Kroma-symbol-w-png]: assets/images/symbol/Kroma-symbol-w.png
-[Kroma-symbol-w-svg]: assets/images/symbol/Kroma-symbol-w.svg
-[Kroma-symbol-b-png]: assets/images/symbol/Kroma-symbol-b.png
-[Kroma-symbol-b-svg]: assets/images/symbol/Kroma-symbol-b.svg
-
-<br/>
-
-## Logotype
-
-| PNG                 | SVG                 |
-|---------------------|---------------------|
-| ![Kroma-logo-b-png] | ![Kroma-logo-b-svg] |
-| ![Kroma-logo-w-png] | ![Kroma-logo-w-svg] |
-
-[Kroma-logo-b-png]: assets/images/logotype/Kroma-logo-b.png
-[Kroma-logo-b-svg]: assets/images/logotype/Kroma-logo-b.svg
-[Kroma-logo-w-png]: assets/images/logotype/Kroma-logo-w.png
-[Kroma-logo-w-svg]: assets/images/logotype/Kroma-logo-w.svg
