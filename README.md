@@ -16,8 +16,8 @@ Only use the logo files provided. Do not re-create.
 | ----------------------------- | ----------------------------- |
 | ![kroma-signature-png]        | ![kroma-signature-svg]        |
 | ![kroma-signature-w-neon-png] | ![kroma-signature-w-neon-svg] |
-| ![tachyon-signature-png]      |                               |
-| ![tachyon-signature-w-png]    |                               |
+| ![tachyon-signature-png]      | ![tachyon-signature-svg]      |
+| ![tachyon-signature-w-png]    | ![tachyon-signature-w-svg]    |
 
 [Kroma-signature-png]: assets/images/signature/Kroma-signature.png
 [Kroma-signature-svg]: assets/images/signature/Kroma-signature.svg
@@ -25,15 +25,19 @@ Only use the logo files provided. Do not re-create.
 [Kroma-signature-w-neon-svg]: assets/images/signature/Kroma-signature-w(neon).svg
 [Tachyon-signature-png]: assets/images/signature/Tachyon-signature.png
 [Tachyon-signature-w-png]: assets/images/signature/Tachyon-signature-w.png
+[Tachyon-signature-svg]: assets/images/signature/Tachyon-signature.svg
+[Tachyon-signature-w-svg]: assets/images/signature/Tachyon-signature-w.svg
 
 <br/>
 
 ## Symbol
 
-| PNG                                                                                      | SVG                 |
-| ---------------------------------------------------------------------------------------- | ------------------- |
-| ![Kroma-symbol-png]                                                                      | ![Kroma-symbol-svg] |
-| <img src="assets/images/symbol/Tachyon-symbol.png" alt="Tachyon-symbol-png" width="200"> |                     |
+| PNG                   | SVG                   |
+| --------------------- | --------------------- |
+| ![Kroma-symbol-png]   | ![Kroma-symbol-svg]   |
+| ![Tachyon-symbol-png] | ![Tachyon-symbol-svg] |
 
 [Kroma-symbol-png]: assets/images/symbol/Kroma-symbol.png
 [Kroma-symbol-svg]: assets/images/symbol/Kroma-symbol.svg
+[Tachyon-symbol-png]: assets/images/symbol/Tachyon_symbol.png
+[Tachyon-symbol-svg]: assets/images/symbol/Tachyon-symbol.svg
