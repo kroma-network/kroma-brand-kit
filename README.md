@@ -4,7 +4,7 @@
 
 ## Usage
 
-The Kroma logo is composed of a symbol and a logotype set in `Tachyon`.
+The Kroma brand kit is composed of a symbol and a logotype set.
 The horizontal logo is the primary logo and should be used in most instances.
 Only use the logo files provided. Do not re-create.
 
